@@ -71,13 +71,13 @@
 			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
 	</dependencies>
-<!-- <distributionManagement>
+<distributionManagement>
     <repository>
-      <id>maven-nexus-repo</id>
-      <name>Releases</name>
+      <id>maven-nexus</id>
+      <name>maven-nexus-repo</name>
       <url>http://192.168.100.2:8081/repository/maven-nexus-repo/</url>
     </repository>
-</distributionManagement> -->
+</distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
