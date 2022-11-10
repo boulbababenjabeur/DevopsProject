@@ -77,11 +77,6 @@
       <name>Releases</name>
       <url>http://192.168.100.2:8081/repository/maven-releases</url>
     </repository>
-    <snapshotRepository>
-      <id>maven-nexus-repo</id>
-      <name>Snapshot</name>
-      <url>http://192.168.100.2:8081/repository/maven-snapshots</url>
-    </snapshotRepository>
 </distributionManagement>
 	<build>
 		<plugins>
